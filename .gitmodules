@@ -2,3 +2,6 @@
 	path = lib/zenphoton
 	url = https://github.com/scanlime/zenphoton.git
 	branch = master
+[submodule "lib/rapidjson"]
+	path = lib/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
