@@ -1,0 +1,4 @@
+[submodule "zenphoton"]
+	path = lib/zenphoton
+	url = https://github.com/scanlime/zenphoton.git
+	branch = master
